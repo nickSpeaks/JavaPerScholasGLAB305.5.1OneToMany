@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1XY518nMlRJ3I276ZECaYIOp_4MqDo-3aGtuTEN4GhtI/
 https://github.com/wilbur61/GLAB305.5.2OneToOne
 
 ### Submission:
-
+https://github.com/nickSpeaks/JavaPerScholasGLAB305.5.1OneToMany
 
 ### Lab Overview:
 In this lab, we will explore and demonstrate the OnetoMany relationship and the ManytoOne relationship in Hibernate. This demonstration consists of the following files:
