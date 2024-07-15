@@ -4,7 +4,7 @@
 https://docs.google.com/document/d/1XY518nMlRJ3I276ZECaYIOp_4MqDo-3aGtuTEN4GhtI/edit
 
 ### Source:
-https://github.com/wilbur61/GLAB305.5.2OneToOne
+https://github.com/wilbur61/GLAB305.5.1OneToMany
 
 ### Submission:
 https://github.com/nickSpeaks/JavaPerScholasGLAB305.5.1OneToMany
